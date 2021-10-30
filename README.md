@@ -8,7 +8,7 @@ Matching games are games that require players to match similar elements. Partici
 Angular JS is a free code JavaScript framework. Developed in 2009 by Miško Hevery (GOOGLE developer) to simplify web application development. 
 ![image](https://user-images.githubusercontent.com/29677743/139555164-19e1dd25-257f-4233-98ee-4120d41c6e18.png)
 
-You can find a more detailed of this framework in the angularjs.odp file.
+You can find a more detailed description of this framework, and its functionalities, in the angularjs.odp file.
 
 ## Screenshots
 ![image](https://user-images.githubusercontent.com/29677743/139555214-f2c9024c-4f39-4187-a303-b9d41271aae4.png)
